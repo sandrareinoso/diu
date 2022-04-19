@@ -74,8 +74,6 @@ Hemos realizado el sitemap para reproducir la organización lógica de la navega
 #### Labelling 
 Como se observa se ha resaltado de color anaranjado los apartados que solo estan disponibles si inicias sesión como administrador, también se ha añadido los nombres de las instancias que representan un .html independiente.
 
-
-### Prototipo Lo-FI Wireframe 
 | ETIQEUTA | ICONO | DESCRIPCIÓN|
 |----------|-------|------------|
 | Home | (icono) | Vista principal del microsite, desde la cual podemos ver las secciones principales, iniciar sesión, y ver los distintos eventos |
@@ -98,6 +96,18 @@ Como se observa se ha resaltado de color anaranjado los apartados que solo estan
 | Configuración | (icono) | Botón que te lleva a la configuración de tu perfil |
 | Enviar | (icono) | Botón para colgar opiniones y sugerencias |
 
+### Prototipo Lo-FI Wireframe 
+| Home | User | Inicio Sesión| Registrarse |
+|------|------|--------------|-------------|
+| Imagen | Imagen | Imagen | Imagen |
+|------|------|--------------|-------------|
+| Mi perfil | Eventos | Eventos (Admin) | Evento |
+|------|------|--------------|-------------|
+| Imagen | Imagen | Imagen | Imagen |
+
+| Evento (Admin) | Ayuda | 
+|------|------|
+| Imagen | Imagen |
 
 
 
