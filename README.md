@@ -40,10 +40,33 @@ Para el desarrollo de este análisis se ha llevado a cabo la elección de tres g
 
 
 #### User Task Matrix 
-| Tareas / Grupos de Usuarios | Administrador | Cliente Individual | Cliente Grupo|
-|-----------------------------|---------------|--------------------|--------------|
-| MODO NOCHE |  🟢  | 🟢  |  🟢  | 🟢  |12 |
-| CONSULTAR NOTIFICACIONES |  🟢  | 🟢 |  🟢  | 🟠  |11 |
+| Tareas / Grupos de Usuarios | Administrador | **Cliente Individual** | **Cliente Grupo** |
+|-----------------------------|---------------|------------------------|------------------|
+| Iniciar sesión | H | H | H |
+| Cerrar sesión | H | H | H |
+| Filtrar evento por nombre | L | L | L |
+| Filtrar evento por tipo de actividad | L | M | H |
+| Filtrar por evento propuesto o programado | L | H | H |
+| Filtrar evento por fecha | M | M | H |
+| Filtrar evento por valoración | H | L | L |
+| Filtrar evento por votación | H | - | - |
+| Filtrar evento por precio | L | H | M |
+| **Publicar propuesta de evento** | H | - | - |
+| **Votar propuesta de evento** | - | H | M |
+| **Inscribirse a evento** | - | H | H |
+| Publicar sugerencias | - | L | L |
+| Valorar evento | - | M | L |
+| Consultar opiniones de otros clientes  | H | L | L |
+| Publicar opinión | - | M | L |
+| Cambiar idioma | L | M | M |
+| Eliminar opiniones (Con lenguaje ofensivo o inapropiadas)  | L | - | - |
+| Consultar aceptación de cada evento | H | - | - |
+| Programar evento a realizar | H | - | - |
+| Consultar sugerencias | H | M | M |
+| Votar sugerencias de otros clientes | L | M | M |
+
+
+
 
 
 
