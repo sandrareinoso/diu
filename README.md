@@ -40,8 +40,8 @@ Para el desarrollo de este análisis se ha llevado a cabo la elección de tres g
 
 
 #### User Task Matrix 
-| Tareas / Grupos de Usuarios | Administrador | **Cliente Individual** | **Cliente Grupo** |
-|-----------------------------|---------------|------------------------|------------------|
+| Tareas / Grupos de Usuarios | Administrador | Cliente Individual | Cliente Grupo |
+|-----------------------------|---------------|--------------------|---------------|
 | Iniciar sesión | H | H | H |
 | Cerrar sesión | H | H | H |
 | Filtrar evento por nombre | L | L | L |
@@ -65,18 +65,40 @@ Para el desarrollo de este análisis se ha llevado a cabo la elección de tres g
 | Consultar sugerencias | H | M | M |
 | Votar sugerencias de otros clientes | L | M | M |
 
-
-
-
-
-
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+#### Sitemap 
+Hemos realizado el sitemap para reproducir la organización lógica de la navegación. Para ello hemos representado las distintas instancias del microsite y sus relaciones, de forma  que podemos ver que secuencia de acciones tenemos que realizar para llegar a cada sub apartado de nuestra página.
+(imagen)
+
+#### Labelling 
+Como se observa se ha resaltado de color anaranjado los apartados que solo estan disponibles si inicias sesión como administrador, también se ha añadido los nombres de las instancias que representan un .html independiente.
 
 
 ### Prototipo Lo-FI Wireframe 
+| ETIQEUTA | ICONO | DESCRIPCIÓN|
+|----------|-------|------------|
+| Home | (icono) | Vista principal del microsite, desde la cual podemos ver las secciones principales, iniciar sesión, y ver los distintos eventos |
+| Usuario | (icono) |  Vista donde se le ofrecerá la posibilidad al usuario de iniciar sesión o registrarse |
+| Cerrar sesión | (icono) | Vista donde el usuario confirma que quiere cerrar sesión |
+| Inicio sesión / registrarse | (icono) | Botón que permite enviar el formulario que hemos rellenado con nuestras credenciales / datos |
+| Eventos |  | Vista donde se visualizará todo el catálogo de eventos configurados por los administradores |
+| Ayuda | (icono) | Vista donde el usuario podrá consultar ayuda sobre el funcionamiento de la aplicación así como información relevante sobre la empresa |
+| Filtrar evento por… |  | Vista dentro de la página de Eventos, que permite al usuario filtrar los eventos en base a distintos criterios |
+| Crear evento | (icono) | Vista donde el administrador, a través de un formulario, puede configurar la información de un nuevo evento y subirlo |
+| Votar propuesta de evento | (icono) | Input usado por el usuario a la hora de votar por una propuesta de evento |
+| Inscribirse a evento |  | Botón que le va a permitir al usuario apuntarse a un determinado evento |
+| Publicar sugerencias |  | Input que permite, tras redactar un formulario, enviarlo. |
+| Publicar opinión |  | Input que permite a un usuario redactar y publicar una opinión sobre un evento en el cual haya participado |
+| Cambiar idioma | (icono) | Botón que permite elegir entre 3 idiomas para traducir la página |
+| Votar sugerencias de otros clientes | (icono) | Botón para votar las sugerencias que han subido otros usuarios sobre propuestas de eventos |
+| Mis sugerencias |  | Vista que ilustra todas las sugerencias publicadas por el usuario que lo consulta |
+| Mis actividades |  | Vista de las actividades que el usuario tiene activas |
+| Editar evento | (icono) | Botón para editar evento |
+| Configuración | (icono) | Botón que te lleva a la configuración de tu perfil |
+| Enviar | (icono) | Botón para colgar opiniones y sugerencias |
+
+
 
 
 ### Conclusiones  
