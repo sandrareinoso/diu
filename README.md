@@ -7,15 +7,16 @@ Para realizar esta nueva propuesta de diseño es necesario analizar el comportam
 Este estudio se va a realizar mediante los mapas de empatía de cada persona en los cuales se pone en comparación lo que las personas oyen, ven, sienten y hacen ayudando a detectar sus dolores y las ganancias. 
 
 A continuación se adjuntan los mapas de empatía mediante imágenes.
-* Mapa de empatía
-#### Andoni
+#### Mapa de empatía
+- **Andoni**
 (Imagen)
-#### Paula
+- **Paula**
 (Imagen)
 
 ### PROPUESTA DE VALOR
 Una vez hemos replanteado la propuesta de valor en el apartado anterior procedemos a diseñar una nueva propuesta descrita a continuación. Por otro lado complementamos la definición de esta mediante un LeanUX canvas que ayuda a tener una mejor visión y clarificar conceptos.
-* Descripción de la propuesta de valor
+
+#### Descripción de la propuesta de valor
 Se quiere diseñar un microsite que permita que los mismos clientes o residentes del hostel puedan seleccionar de entre una lista de eventos, preestablecidos por el personal del sitio, cuales son en los que les apetecería más participar durante su estancia en el hostel.
 
 A la hora de valorar estas actividades tendrán la capacidad de dar retroalimentación o sugerir cambios para que se adapten más a sus necesidades e intenciones.
@@ -24,7 +25,7 @@ La aplicación permitirá a los usuarios ver los eventos que se han programado y
 
 Al haber acabado el evento en el que han participado los usuarios podrán dejar comentarios y valoraciones.
 
-* ScopeCanvas
+#### ScopeCanvas
 (Imagen)
 
 ### TASK ANALYSIS
@@ -38,31 +39,12 @@ Para el desarrollo de este análisis se ha llevado a cabo la elección de tres g
     - **Grupo**: Conjunto de clientes que viajan en un mismo grupo y por lo tanto comparten intereses y objetivos.
 
 
-* User Task Matrix 
+#### User Task Matrix 
 | Tareas / Grupos de Usuarios | Administrador | Cliente Individual | Cliente Grupo|
-|-------------------|----------|---------|------------------|
+|-----------------------------|---------------|--------------------|--------------|
 | MODO NOCHE |  🟢  | 🟢  |  🟢  | 🟢  |12 |
 | CONSULTAR NOTIFICACIONES |  🟢  | 🟢 |  🟢  | 🟠  |11 |
-| INICIAR SESIÓN    |  🟢  | 🟢  | 🟢  | 🔴  | 10 |
-| PREGUNTAR OTROS USUARIOS |  🟢  | 🟢  | 🔴  | 🟢  |10 |
-| CONSULTAR CALENDARIO |  🟢  | 🟢 |  🟢  | 🔴  |10 |
-| **BUSCAR ESTANCIA**   |  🟢  | 🟢  | 🔴  | 🟠  | 10 |
-| **BUSCAR RESTAURACIÓN**|  🟢  | 🟢  | 🔴  | 🟠  |10 |
-| **BUSCAR TRANSPORTE**|  🟢  | 🟢  | 🔴  | 🟠  |10 |
-| INFORMACIÓN DE CONTACTO   | 🟢 | 🟠  | 🟠 | 🟢|10 |
-| BUSCAR OCIO |  🟢  | 🟢  | 🔴  | 🟠  |10 |
-| CONSULTAR PROMOCIONES |  🟢  | 🟠  |  🟠  | 🟢  |10 |
-| CHAT ONLINE |  🟠  | 🟠 |  🟢  |🟢  |10 |
-| RECORDAR CONTRASEÑA   | 🟢 | 🟢 | 🟢 | ❌|9 |
-| LEER FQAs   | 🟠 | 🟠 | 🟠 | 🟢|9 |
-| CAMBIAR IDIOMA   | 🟢 | 🟠 | 🟢 | ❌|8 |
-| HACERSE PREMIUM |  🟢  | 🔴  | 🔴  | 🟠  |7 |
-| **CREAR ACTIVIDAD**  | ❌ | ❌ | 🟢 | ❌|3 |
-| ALTA PROMOCIÓN   | ❌ | ❌ | 🟢 | ❌|3 |
-| REGISTRARSE   | ❌ | ❌ | ❌ | 🟢|3 |
-| BAJA PROMOCIÓN   | ❌ | ❌ | 🟢 | ❌|3 |
-| BORRAR ACTIVIDAD | ❌ | ❌ | 🟠 | ❌|2 |
-| BAJO PROMOCIÓN   | ❌ | ❌ | 🟠 | ❌|2 |
+
 
 
 ### ARQUITECTURA DE INFORMACIÓN
