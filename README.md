@@ -109,7 +109,15 @@ Como se observa se ha resaltado de color anaranjado los apartados que solo estan
 |------|------|
 | Imagen | Imagen |
 
+#### Correlación de las páginas respecto al sitemap
+(imagen)
 
+### Conclusiones 
+Gracias a esta práctica, hemos podido profundizar un poco más en lo que conlleva la realización de una nueva funcionalidad a un servicio ya definido. 
+Hemos compredido todo lo que esto implica, ya que lo principal es satisfacer las necesidades de los clientes para así poder atraerlos más a nuestro servicio principial (El hostel).
 
-### Conclusiones  
-(incluye valoración de esta etapa)
+Como hemos visto se trata de un procedimiento cargado de detalles y con muchas etapas, pero todo muy necesario para concretar bien todas las características del nuevo servicio que queremos diseñar.
+
+Además consideramos que gracias a los bocetos hemos podido mejorar otros apartados anteriores, ya que cuando de verdad nos ponemos a diseñar la funcionalidad, realmente nos damos cuenta de lo que realmente necesitamos.
+
+En conclusión nos ha parecido una práctica muy concreta y útil para poder conocer el proceso que conlleva la incorporación de un nuevo servicio a un producto principal.
